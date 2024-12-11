@@ -6,8 +6,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohameodo)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohameodo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![streak](https://github-readme-streak-stats.herokuapp.com/?mohameodo)
-
 
 
 
